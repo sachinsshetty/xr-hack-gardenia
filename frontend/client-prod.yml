@@ -1,0 +1,8 @@
+services:
+  thunder-ux:
+    image: dwani/thunder-ux
+    ports:
+      - "80:80"
+    environment:
+      - VITE_DWANI_API_BASE_URL=https://<thunder-server>.dwani.ai
+    restart: unless-stopped
