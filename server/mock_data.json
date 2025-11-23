@@ -1,0 +1,11 @@
+[
+  {
+    "user_id": "user_001",
+    "query_text": "What is this weapon?",
+    "image": "",
+    "latitude": 51.75536,
+    "longitude": 11.434845,
+    "ai_response": "This appears to be an AK-47 assault rifle, a Soviet-designed automatic firearm."
+  }
+]
+
